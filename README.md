@@ -1,6 +1,6 @@
-# Emote Manager
+# Sui Emotes
 
-Emote Manager is a souped up version of the Emoji settings screen in your server's settings.
+Sui Emotes is an emote manager that'll help you add emotes to your server.
 
 **Note:** both you and the bot will need the "Manage Emojis" permission to edit custom server emotes.
 
