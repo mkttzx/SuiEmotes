@@ -1,6 +1,7 @@
 # Sui Emotes
 
 Sui Emotes is an emote manager that'll help you add emotes to your server.
+This code is forked from Emote Manager, I do not own any of these.
 
 **Note:** both you and the bot will need the "Manage Emojis" permission to edit custom server emotes.
 
